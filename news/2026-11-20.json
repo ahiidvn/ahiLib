@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-20",
+  "updatedAt": "2026-11-20T15:11:09.855073+07:00",
+  "items": [
+    {
+      "title": "Kỹ sư Anthropic đứng sau tham vọng 'lập trình viên không cần viết code'",
+      "url": "https://vnexpress.net/ky-su-anthropic-dung-sau-tham-vong-lap-trinh-vien-khong-can-viet-code-5145193.html",
+      "at": 1795136400000,
+      "topic": "code",
+      "score": 14,
+      "summary": "Boris Cherny, 35 tuổi, là người đứng sau thành công của Anthropic Claude Code, công cụ AI đang khiến lĩnh vực lập trình \"thay đổi sâu sắc\".",
+      "image": "thumbs/c24f52a4c178cf1a9f30fb8f.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "Nvidia ngừng xuất khẩu chip AI H200 sang Trung Quốc",
+      "url": "https://thanhnien.vn/nvidia-ngung-xuat-khau-chip-ai-h200-sang-trung-quoc-18526112008554658.htm",
+      "at": 1795144200000,
+      "topic": "ai",
+      "score": 6,
+      "summary": "Nvidia xác nhận đang tạm dừng các lô hàng chip H200 tới Trung Quốc, khép lại thỏa thuận từng đi kèm mức thuế xuất khẩu 25% của Mỹ.",
+      "image": "",
+      "source": "Thanh Niên"
+    }
+  ]
+}
