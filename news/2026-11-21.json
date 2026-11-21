@@ -1,7 +1,27 @@
 {
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T06:40:46.740505+07:00",
+  "updatedAt": "2026-11-21T12:50:05.139517+07:00",
   "items": [
+    {
+      "title": "Anthropic - từ phòng thí nghiệm AI đến đế chế nghìn tỷ USD",
+      "url": "https://vnexpress.net/anthropic-tu-phong-thi-nghiem-ai-den-de-che-nghin-ty-usd-5147177.html",
+      "at": 1795237200000,
+      "topic": "ai",
+      "score": 10,
+      "summary": "Được thành lập với 7 cựu nhân viên OpenAI, Anthropic mong muốn phát triển trí tuệ nhân tạo an toàn, nhưng đang gặp thách thức với chính mục tiêu đó sau IPO.",
+      "image": "thumbs/3c5a680a26d0a727ca6cb2ea.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "Apple âm thầm phát triển trợ lý AI vượt xa Siri",
+      "url": "https://thanhnien.vn/apple-am-tham-phat-trien-tro-ly-ai-vuot-xa-siri-185261121085020139.htm",
+      "at": 1795230660000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "Sau nhiều năm phát triển Siri, Apple dường như đang hướng đến một thế hệ trợ lý AI có thể chủ động làm việc thay người dùng.",
+      "image": "",
+      "source": "Thanh Niên"
+    },
     {
       "title": "Cách Trung Quốc giải cơn khát điện của AI",
       "url": "https://vnexpress.net/cach-trung-quoc-giai-con-khat-dien-cua-ai-5146713.html",
