@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T12:50:05.139517+07:00",
+  "updatedAt": "2026-11-22T06:30:39.815067+07:00",
   "items": [
     {
       "title": "Anthropic - từ phòng thí nghiệm AI đến đế chế nghìn tỷ USD",
@@ -11,6 +11,16 @@
       "summary": "Được thành lập với 7 cựu nhân viên OpenAI, Anthropic mong muốn phát triển trí tuệ nhân tạo an toàn, nhưng đang gặp thách thức với chính mục tiêu đó sau IPO.",
       "image": "thumbs/3c5a680a26d0a727ca6cb2ea.webp",
       "source": "VnExpress"
+    },
+    {
+      "title": "Chuyên gia Anthropic dự đoán AI sẽ vượt trí tuệ con người vào năm 2027",
+      "url": "https://thanhnien.vn/chuyen-gia-anthropic-du-doan-ai-se-vuot-tri-tue-con-nguoi-vao-nam-2027-185261121082943197.htm",
+      "at": 1795247640000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "AI có thể vượt trí tuệ con người vào năm 2027, kéo theo nguy cơ hàng loạt công việc biến mất, theo cảnh báo từ nhà nghiên cứu Anthropic.",
+      "image": "",
+      "source": "Thanh Niên"
     },
     {
       "title": "Apple âm thầm phát triển trợ lý AI vượt xa Siri",
