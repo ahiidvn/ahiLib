@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-23",
+  "updatedAt": "2026-11-23T12:58:15.629654+07:00",
+  "items": [
+    {
+      "title": "Nữ kỹ sư đứng sau mô hình AI làm phim gây sốt ở Trung Quốc",
+      "url": "https://vnexpress.net/nu-ky-su-dung-sau-mo-hinh-ai-lam-phim-gay-sot-o-trung-quoc-5146432.html",
+      "at": 1795384800000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "Zeng Yan, 29 tuổi, là một trong những kỹ sư chủ chốt phát triển Seedance, mô hình tạo video của ByteDance được giới làm phim ngắn AI Trung Quốc ưa chuộng.",
+      "image": "thumbs/c7952b87911de8c8e947bec8.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "Sự cố tự động hóa khiến hơn 1.000 chuyến bay của Delta bị chậm",
+      "url": "https://vnexpress.net/su-co-tu-dong-hoa-khien-hon-1-000-chuyen-bay-cua-delta-bi-cham-5147770.html",
+      "at": 1795390469000,
+      "topic": "code",
+      "score": 6,
+      "summary": "Hơn 1.000 chuyến bay của hãng hàng không Delta Air Lines bị chậm ngày 22/11 do sự cố kỹ thuật khiến một hệ thống tính toán trọng lượng và cân bằng ngừng hoạt động.",
+      "image": "thumbs/4f2ba00dcd693f036f46fd41.webp",
+      "source": "VnExpress"
+    }
+  ]
+}
