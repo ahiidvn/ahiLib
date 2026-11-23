@@ -3,7 +3,7 @@ name: ahiLib - Update technology news
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 5,23 * * *'
+    - cron: '0 0,7,12,19 * * *'
   push:
     branches: [main]
     paths:
