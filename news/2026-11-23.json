@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T19:52:18.509036+07:00",
+  "updatedAt": "2026-11-24T02:50:42.453606+07:00",
   "items": [
     {
       "title": "Chatbot AI siêu nhỏ chạy trên máy tính MS-DOS 486 từ một đĩa mềm",
@@ -11,6 +11,16 @@
       "summary": "Chatbot AI mang tên Tiny 2.1 có tổng dung lượng chỉ khoảng 435 KB và chạy được trên máy tính MS-DOS cổ điển.",
       "image": "",
       "source": "Thanh Niên"
+    },
+    {
+      "title": "Vivo V80 - smartphone với nhiều tính năng AI cho camera",
+      "url": "https://vnexpress.net/vivo-v80-smartphone-voi-nhieu-tinh-nang-ai-cho-camera-5147934.html",
+      "at": 1795426968000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "Vivo V80 có thiết kế mặt lưng dùng hiệu ứng 3D chuyển màu, camera và chế độ chụp chân dung hợp tác với Zeiss cùng nhiều tính năng giả lập ánh sáng bằng AI.",
+      "image": "thumbs/fb30f1ad7ec856a4ca10354b.webp",
+      "source": "VnExpress"
     },
     {
       "title": "Nữ kỹ sư đứng sau mô hình AI làm phim gây sốt ở Trung Quốc",
