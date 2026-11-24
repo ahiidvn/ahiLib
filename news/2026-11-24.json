@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T02:50:42.453606+07:00",
+  "updatedAt": "2026-11-24T07:38:07.136868+07:00",
   "items": [
     {
       "title": "Concordia AI - cố vấn phía sau các ông lớn công nghệ Trung Quốc",
@@ -10,6 +10,26 @@
       "score": 16,
       "summary": "Từ nhóm nghiên cứu vô danh khi ChatGPT còn xa lạ, Concordia AI đã phát triển lớn mạnh thành cố vấn hàng đầu về AI cho Huawei Technologies, DeepSeek, Z.ai.",
       "image": "thumbs/dad8bcf50987c500adc32ea1.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "Cài đặt quyền riêng tư giúp ngăn ứng dụng Android tự ý bật camera",
+      "url": "https://thanhnien.vn/cai-dat-quyen-rieng-tu-giup-ngan-ung-dung-android-tu-y-bat-camera-185261122154004193.htm",
+      "at": 1795475940000,
+      "topic": "view",
+      "score": 6,
+      "summary": "Người dùng Android có thể kiểm soát chặt chẽ quyền truy cập camera thông qua cài đặt để ngăn nguy cơ bị theo dõi và tin tặc xâm nhập.",
+      "image": "",
+      "source": "Thanh Niên"
+    },
+    {
+      "title": "Khi thế giới chưa sẵn sàng cho những 'cú sốc' thời AI",
+      "url": "https://vnexpress.net/khi-the-gioi-chua-san-sang-cho-nhung-cu-soc-thoi-ai-5146969.html",
+      "at": 1795471200000,
+      "topic": "ai",
+      "score": 6,
+      "summary": "Loạt sự cố từ Microsoft, Apple, ngân hàng, hàng không được đánh giá nghiêm trọng, nhưng phần lớn lại bắt nguồn từ nỗ lực ngăn ngừa rủi ro.",
+      "image": "thumbs/b753899ea6ed1b923de9cba0.webp",
       "source": "VnExpress"
     }
   ]
