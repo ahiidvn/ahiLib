@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-25",
+  "updatedAt": "2026-11-25T15:21:02.582520+07:00",
+  "items": [
+    {
+      "title": "Phát hiện cài đặt trên Chrome âm thầm ngốn RAM dù đã đóng trình duyệt",
+      "url": "https://thanhnien.vn/phat-hien-cai-dat-tren-chrome-am-tham-ngon-ram-du-da-dong-trinh-duyet-185261125112754029.htm",
+      "at": 1795582680000,
+      "topic": "web",
+      "score": 14,
+      "summary": "Một tùy chọn mặc định trên Google Chrome duy trì tiến trình chạy ngầm, tiêu tốn bộ nhớ ngay cả khi người dùng đã bấm nút tắt.",
+      "image": "",
+      "source": "Thanh Niên"
+    },
+    {
+      "title": "Trải nghiệm máy ghi âm AI Plaud: Có đủ để chinh phục người dùng Việt?",
+      "url": "https://thanhnien.vn/trai-nghiem-may-ghi-am-ai-plaud-co-du-de-chinh-phuc-nguoi-dung-viet-185261123161424279.htm",
+      "at": 1795579680000,
+      "topic": "ai",
+      "score": 10,
+      "summary": "Máy ghi âm tích hợp trí tuệ nhân tạo sở hữu khả năng chuyển ngữ tiếng Việt và cơ chế ghi âm cuộc gọi qua cảm biến rung, nhưng đặt ra nhiều lưu ý về thói quen sử dụng cùng chi phí duy trì phần mềm.",
+      "image": "",
+      "source": "Thanh Niên"
+    },
+    {
+      "title": "Máy chủ AI tăng giá đến 45% dù đã ký hợp đồng",
+      "url": "https://vnexpress.net/may-chu-ai-tang-gia-den-45-du-da-ky-hop-dong-5148227.html",
+      "at": 1795577539000,
+      "topic": "ai",
+      "score": 6,
+      "summary": "Tình trạng thiếu hụt DRAM khiến chi phí của máy chủ thiên về dung lượng RAM tăng gấp ba lần, buộc nhiều bên mua phải chấp nhận đội giá hàng chục phần trăm.",
+      "image": "thumbs/6ae95c8cb0c99076b80b4b29.webp",
+      "source": "VnExpress"
+    }
+  ]
+}
