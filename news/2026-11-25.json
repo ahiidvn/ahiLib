@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T15:21:02.582520+07:00",
+  "updatedAt": "2026-11-25T19:54:29.170240+07:00",
   "items": [
     {
       "title": "Phát hiện cài đặt trên Chrome âm thầm ngốn RAM dù đã đóng trình duyệt",
@@ -13,12 +13,32 @@
       "source": "Thanh Niên"
     },
     {
+      "title": "Dịch vụ nhạc trực tuyến Tidal cấm nhạc AI",
+      "url": "https://vnexpress.net/dich-vu-nhac-truc-tuyen-tidal-cam-nhac-ai-5148751.html",
+      "at": 1795597600000,
+      "topic": "ai",
+      "score": 10,
+      "summary": "Dịch vụ nhạc trực tuyến Tidal sẽ gỡ bỏ toàn bộ ca khúc tạo hoàn toàn bằng AI từ ngày 9/12 trong khi Apple Music, Spotify đang tìm cách đối phó làn sóng \"rác AI\".",
+      "image": "thumbs/5e372bad19c1c7ac667f8a5b.webp",
+      "source": "VnExpress"
+    },
+    {
       "title": "Trải nghiệm máy ghi âm AI Plaud: Có đủ để chinh phục người dùng Việt?",
       "url": "https://thanhnien.vn/trai-nghiem-may-ghi-am-ai-plaud-co-du-de-chinh-phuc-nguoi-dung-viet-185261123161424279.htm",
       "at": 1795579680000,
       "topic": "ai",
       "score": 10,
       "summary": "Máy ghi âm tích hợp trí tuệ nhân tạo sở hữu khả năng chuyển ngữ tiếng Việt và cơ chế ghi âm cuộc gọi qua cảm biến rung, nhưng đặt ra nhiều lưu ý về thói quen sử dụng cùng chi phí duy trì phần mềm.",
+      "image": "",
+      "source": "Thanh Niên"
+    },
+    {
+      "title": "ChatGPT có thể bịa nguồn tin và quên chỉ dẫn của người dùng",
+      "url": "https://thanhnien.vn/chatgpt-co-the-bia-nguon-tin-va-quen-chi-dan-cua-nguoi-dung-185261125154223534.htm",
+      "at": 1795600560000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "Dù ngày càng thông minh, ChatGPT vẫn có thể bịa nguồn dẫn, hiểu sai yêu cầu và quên chỉ dẫn trong những cuộc trò chuyện dài.",
       "image": "",
       "source": "Thanh Niên"
     },
