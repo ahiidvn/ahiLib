@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-26",
+  "updatedAt": "2026-11-26T07:40:14.328489+07:00",
+  "items": [
+    {
+      "title": "Chàng trai 16 tuổi lập startup tên lửa dẫn đường bằng AI",
+      "url": "https://vnexpress.net/chang-trai-16-tuoi-lap-startup-ten-lua-dan-duong-bang-ai-5148691.html",
+      "at": 1795651200000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "Henrijs Dandzbergs quyết định bỏ học để mở công ty tên lửa dẫn đường bằng AI và nhận được 500.000 USD từ vườn ươm startup nổi tiếng Y Combinator.",
+      "image": "thumbs/398c4a003c9ae7e36306dce3.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "Tác nhân AI thiết kế kiến trúc CPU 'từ con số 0'",
+      "url": "https://vnexpress.net/tac-nhan-ai-thiet-ke-kien-truc-cpu-tu-con-so-0-5148262.html",
+      "at": 1795644000000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "Công ty Architect Labs cho biết tác nhân AI của họ đã \"thiết kế và kiểm chứng\" một CPU đa năng với tập lệnh mới được xây dựng từ đầu.",
+      "image": "thumbs/f6135531a336e9d6e4280a37.webp",
+      "source": "VnExpress"
+    }
+  ]
+}
