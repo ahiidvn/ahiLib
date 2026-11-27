@@ -1,0 +1,12 @@
+{
+  "pdf-engine.js.gz": "6aa8d8cf38eb78936be1aa145aabc77638017be2edfc2971c40eeaf0fea0dcbb",
+  "pdf-worker.js.gz": "94b5b218c91382b38e587e0436a935e4f0f16f0cad4b831b998c80ed888e3637",
+  "pdf-writer.js.gz": "c25aae716136b267709b50f89bafe1a6c27c7fc017ee228d515289ba922ad03a",
+  "fontkit.js.gz": "32ba4963238427407d3ddd896ff53f2be235249b75e3437e58619135b61de3e9",
+  "ocr-api.js.gz": "5d507a561d2c9252fdca21260ab8409638bcd0c4decd90abb04ec9aaedabbbc7",
+  "ocr-worker-vi-en.js.gz": "ffcd07613ddb346e516732e1cf38739061d0c61403edc15147d8442f4de66dec",
+  "NotoSans-Regular.ttf": "f5f552c8c5edb61fe6efb824baf4d4de47b1a8689ab4925ff43f7bd6a4ebece5",
+  "cmaps.json": "5642041bf7583cc37fce3d21869b241cc45a6284a688d1ad3726edec3124157c",
+  "standard-fonts.json": "140e5b46fbdee6a83ff42ea7160b9ebde35527e116d55cd220ddffd7f838babe",
+  "pdf-studio.js": "f81ae754d7bc8be0f9280b515bf7d00a8095fcd24aa7ae3c0b569c27d89e386d"
+}
