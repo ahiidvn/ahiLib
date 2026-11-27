@@ -1,15 +1,45 @@
 {
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T07:45:25.332785+07:00",
+  "updatedAt": "2026-11-27T15:16:54.220483+07:00",
   "items": [
     {
-      "title": "Nhiều trang web mất khách vì Google 'trả lời thay'",
+      "title": "Google sửa lỗi khiến Chrome ngốn hơn 5 GB RAM khi không sử dụng",
+      "url": "https://thanhnien.vn/google-sua-loi-khien-chrome-ngon-hon-5-gb-ram-khi-khong-su-dung-185261127103549199.htm",
+      "at": 1795751340000,
+      "topic": "web",
+      "score": 10,
+      "summary": "Sau nhiều phản ánh về tình trạng Gemini trên Chrome ngốn RAM, Google cho biết đã sửa lỗi nhưng chưa công bố nguyên nhân cụ thể.",
+      "image": "",
+      "source": "Thanh Niên"
+    },
+    {
+      "title": "Hãng phần mềm lớn nhất châu Âu có thể sa thải 10.000 người",
+      "url": "https://vnexpress.net/hang-phan-mem-lon-nhat-chau-au-co-the-sa-thai-10-000-nguoi-5149433.html",
+      "at": 1795748656000,
+      "topic": "code",
+      "score": 10,
+      "summary": "SAP, hãng phần mềm nổi tiếng Đức, được cho là có thể cắt giảm hơn 10.000 nhân sự khi công ty trong quá trình tái cấu trúc mảng trí tuệ nhân tạo.",
+      "image": "thumbs/fba093ff31a2ebc380098b47.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "Dân công nghệ Việt xoay xở đổi nghề trong 'bão' AI",
+      "url": "https://vnexpress.net/dan-cong-nghe-viet-xoay-xo-doi-nghe-trong-bao-ai-5145736.html",
+      "at": 1795744800000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "AI ngày càng tác động sâu rộng buộc nhiều người tìm cách thích ứng, thậm chí học nghề mới để phòng trường hợp thất nghiệp.",
+      "image": "thumbs/204c22d5a57bb264653bbc16.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "Nhiều trang web mất khách vì Google trả lời thay",
       "url": "https://vnexpress.net/nhieu-trang-web-mat-khach-vi-google-tra-loi-thay-5148929.html",
       "at": 1795730400000,
       "topic": "web",
       "score": 8,
       "summary": "Chế độ AI Mode trả lời ngay trên trang tìm kiếm Google khiến người dùng ít bấm vào đường link, làm lung lay mô hình \"Google gửi khách, web kiếm tiền\" tồn tại hơn hai thập kỷ.",
-      "image": "thumbs/2b0e8abe0d78f475217c9216.webp",
+      "image": "thumbs/8cd30e45064de88cb460242a.webp",
       "source": "VnExpress"
     }
   ]
