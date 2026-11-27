@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T19:49:51.219716+07:00",
+  "updatedAt": "2026-11-28T02:47:24.152463+07:00",
   "items": [
     {
       "title": "Google sửa lỗi khiến Chrome ngốn hơn 5 GB RAM khi không sử dụng",
@@ -20,6 +20,16 @@
       "score": 10,
       "summary": "SAP, hãng phần mềm nổi tiếng Đức, được cho là có thể cắt giảm hơn 10.000 nhân sự khi công ty trong quá trình tái cấu trúc mảng trí tuệ nhân tạo.",
       "image": "thumbs/fba093ff31a2ebc380098b47.webp",
+      "source": "VnExpress"
+    },
+    {
+      "title": "AI tạo 'cú phanh' ngăn rủi ro dòng tiền trên MoMo",
+      "url": "https://vnexpress.net/ai-tao-cu-phanh-ngan-rui-ro-dong-tien-tren-momo-5148006.html",
+      "at": 1795780800000,
+      "topic": "ai",
+      "score": 8,
+      "summary": "MoMo xây dựng AI nhận diện rủi ro trong giao dịch, tạo \"cú phanh\" lúc người dùng ra quyết định, giảm nguy cơ trước các kịch bản lừa đảo.",
+      "image": "thumbs/1da5b7260db8618d8f6ddddf.webp",
       "source": "VnExpress"
     },
     {
